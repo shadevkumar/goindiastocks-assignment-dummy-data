@@ -1,0 +1,1 @@
+# goindiastocks-assignment-dummy-data
