@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "username": "User1",
+      "postTitle": "Discussion Title 1"
+    },
+    {
+      "id": 2,
+      "username": "User2",
+      "postTitle": "Discussion Title 2"
+    }
+  ]
