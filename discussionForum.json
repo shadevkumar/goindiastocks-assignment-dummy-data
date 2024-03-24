@@ -1,12 +1,122 @@
 [
-    {
-      "id": 1,
-      "username": "User1",
-      "postTitle": "Discussion Title 1"
-    },
-    {
-      "id": 2,
-      "username": "User2",
-      "postTitle": "Discussion Title 2"
-    }
-  ]
+ {
+   "id": 1,
+   "username": "Shadev Kumar",
+   "postDescription": "Analyzing the impact of the recent RBI policy announcement on banking stocks. Should we buy SBI or HDFC Bank?",
+   "sector": "IT",
+   "time_posted": "2 min ago",
+   "likescount": "2k",
+   "viewscount": "10k",
+   "totalComments": "500 comments"
+ },
+ {
+   "id": 2,
+   "username": "Ashish Prasad",
+   "postDescription": "Discussing the latest market trends and stock picks in the IT sector. What are your thoughts on TCS and Infosys?",
+   "sector": "Banking",
+   "time_posted": "5 min ago",
+   "likescount": "1.5k",
+   "viewscount": "8k",
+   "totalComments": "350 comments"
+ },
+ {
+   "id": 3,
+   "username": "Priya Sharma",
+   "postDescription": "What are your views on the pharma sector? Should we invest in Sun Pharma or Dr. Reddy's Laboratories?",
+   "sector": "Pharma",
+   "time_posted": "10 min ago",
+   "likescount": "1k",
+   "viewscount": "6k",
+   "totalComments": "200 comments"
+ },
+ {
+   "id": 4,
+   "username": "Rohit Singh",
+   "postDescription": "Discussing the potential of the electric vehicle industry in India. Should we invest in Tata Motors or Mahindra & Mahindra?",
+   "sector": "Automotive",
+   "time_posted": "15 min ago",
+   "likescount": "800",
+   "viewscount": "4k",
+   "totalComments": "150 comments"
+ },
+ {
+   "id": 5,
+   "username": "Anjali Gupta",
+   "postDescription": "Analyzing the impact of the recent budget announcements on the infrastructure sector. Should we invest in L&T or NBCC?",
+   "sector": "Infrastructure",
+   "time_posted": "20 min ago",
+   "likescount": "700",
+   "viewscount": "3k",
+   "totalComments": "100 comments"
+ },
+ {
+   "id": 6,
+   "username": "Vikram Rajan",
+   "postDescription": "Discussing the growth prospects of the FMCG sector. Should we invest in HUL or ITC?",
+   "sector": "FMCG",
+   "time_posted": "25 min ago",
+   "likescount": "600",
+   "viewscount": "2.5k",
+   "totalComments": "80 comments"
+ },
+ {
+   "id": 7,
+   "username": "Neha Mehta",
+   "postDescription": "Analyzing the impact of the recent trade tensions on the metal sector. Should we invest in Tata Steel or Hindalco?",
+   "sector": "Metal",
+   "time_posted": "30 min ago",
+   "likescount": "500",
+   "viewscount": "2k",
+   "totalComments": "60 comments"
+ },
+ {
+   "id": 8,
+   "username": "Rohan Sharma",
+   "postDescription": "Discussing the growth prospects of the telecom sector. Should we invest in Bharti Airtel or Reliance Jio?",
+   "sector": "Telecom",
+   "time_posted": "35 min ago",
+   "likescount": "400",
+   "viewscount": "1.5k",
+   "totalComments": "40 comments"
+ },
+ {
+   "id": 9,
+   "username": "Priya Desai",
+   "postDescription": "Analyzing the impact of the recent regulatory changes on the power sector. Should we invest in NTPC or Power Grid?",
+   "sector": "Power",
+   "time_posted": "40 min ago",
+   "likescount": "300",
+   "viewscount": "1k",
+   "totalComments": "30 comments"
+ },
+ {
+   "id": 10,
+   "username": "Amit Agarwal",
+   "postDescription": "Discussing the growth prospects of the real estate sector. Should we invest in DLF or Oberoi Realty?",
+   "sector": "Real Estate",
+   "time_posted": "45 min ago",
+   "likescount": "200",
+   "viewscount": "800",
+   "totalComments": "20 comments"
+ },
+ {
+   "id": 11,
+   "username": "Preeti Singh",
+   "postDescription": "Analyzing the impact of the recent environmental regulations on the cement sector. Should we invest in UltraTech Cement or ACC?",
+   "sector": "Cement",
+   "time_posted": "50 min ago",
+   "likescount": "150",
+   "viewscount": "600",
+   "totalComments": "15 comments"
+ },
+ {
+   "id": 12,
+   "username": "Rahul Sharma",
+   "postDescription": "Discussing the growth prospects of the aviation sector. Should we invest in IndiGo or SpiceJet?",
+   "sector": "Aviation",
+   "time_posted": "55 min ago",
+   "likescount": "100",
+   "viewscount": "400",
+   "totalComments": "10 comments"
+ }
+]
